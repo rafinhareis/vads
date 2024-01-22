@@ -1,0 +1,6 @@
+&control
+file_dir = Examples/
+file_name = A1_77K_FAT_121023_M1.xy
+file_arpes_exist = True
+file_name_pp = A1_77K_FAT_121023_MARPES
+cicle_parameter_(ShiftX_or_tilt) = ShiftX
